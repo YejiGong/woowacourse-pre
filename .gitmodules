@@ -1,0 +1,4 @@
+[submodule "week1"]
+	path = week1
+	url = https://github.com/YejiGong/java-baseball-6
+	branch = YejiGong
