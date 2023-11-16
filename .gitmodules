@@ -10,3 +10,7 @@
 	path = week3
 	url = https://github.com/YejiGong/java-lotto-6
 	branch = YejiGong
+[submodule "week4"]
+	path = week4
+	url = https://github.com/YejiGong/java-christmas-6-YejiGong
+	branch = main
